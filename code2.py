@@ -1,5 +1,7 @@
-a = 10;
-b = 15;
-c = a + b ;
+a = 10
+b = 15
+print(a)
 
-print(c);
+c = a + b
+
+print(c)
