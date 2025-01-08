@@ -12,4 +12,10 @@ def greetings():
     print("Rakib Gay")
 
 
+def greet():
+
+    '''greeting message'''
+    print("Hello World")
+
+
 greetings()
