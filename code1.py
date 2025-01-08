@@ -10,12 +10,3 @@ def greetings():
 
 
 greetings()
-
-
-def green():
-
-    '''greeting message'''
-    print("Hello World")
-
-
-green()
