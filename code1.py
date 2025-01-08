@@ -1,6 +1,9 @@
 '''first Code'''
 
+
 '''Function Name'''
+
+
 def greetings():
 
     '''greeting message'''
