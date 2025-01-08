@@ -10,3 +10,12 @@ def greetings():
 
 
 greetings()
+
+
+def greet():
+
+    '''greeting message'''
+    print("Hello World")
+
+
+greet()
