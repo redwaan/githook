@@ -1,9 +1,11 @@
-a = 10
-b = 15
-print(a)
+#'''Another Code'''
 
-c = a + d 
-
-print(c)
+#a = 10
+#b = 15
+#print(a)
+#
+#c = a + d 
+#
+#print(c)
 
 
