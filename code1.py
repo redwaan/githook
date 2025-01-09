@@ -19,5 +19,4 @@ def greet():
 
 
 greetings()
-greet()
-greetings()
+
